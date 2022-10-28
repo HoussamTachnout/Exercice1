@@ -31,6 +31,7 @@ namespace Exercice1
                 {
                     Console.WriteLine(+nbr + " est un Nombre Premier");
                 }
+            Console.ReadLine();
         }
     }
 }
